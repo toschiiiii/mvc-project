@@ -23,6 +23,21 @@ namespace DotolloGuiangRodulfa_MVCProject.Controllers
             return View();
         }
 
+        public IActionResult Profile()
+        {
+            return View();
+        }
+
+        public IActionResult Portfolio()
+        {
+            return View();
+        }
+
+        public IActionResult ZyrahPortfolio()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

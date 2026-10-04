@@ -1,0 +1,342 @@
+﻿@{
+    ViewData["Title"] = "Zyrah's Portfolio";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Portfolio</title>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;500;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+
+    <div style="padding:12px 40px;">
+        <a href="/Home/Portfolio" style="font-size:12px;">← Back to Portfolios</a>
+    </div>
+
+    <div class="ticker" aria-hidden="true">
+        <div class="ticker-track">
+            <span>HTML</span><span>CSS</span><span>C</span><span>Java</span><span>MySQL</span><span>PostgreSQL</span><span>VB.NET</span>
+            <span>Canva</span><span>Adobe Express</span><span>Figma</span>
+            <span>Capcut</span><span>Microsoft Clipchamp</span>
+            <span>Google Workspace</span><span>Microsoft Office Suite</span><span>Notion</span>
+            <span>HTML</span><span>CSS</span><span>C</span><span>Java</span><span>MySQL</span><span>PostgreSQL</span><span>VB.NET</span>
+            <span>Canva</span><span>Adobe Express</span><span>Figma</span>
+            <span>Capcut</span><span>Microsoft Clipchamp</span>
+            <span>Google Workspace</span><span>Microsoft Office Suite</span><span>Notion</span>
+        </div>
+    </div>
+
+    <nav role="navigation" aria-label="Main navigation">
+        <div class="nav-logo">+toschi.dev+</div>
+        <ul class="nav-links">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#archive">Archive</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+        <button class="theme-toggle" onclick="toggleTheme()" id="theme-btn" aria-label="Toggle theme">
+            [ light ]
+        </button>
+    </nav>
+
+    <div class="wrap">
+
+        <section id="home" aria-label="Introduction">
+            <template id="train-tpl">
+                o O O
+                o ___ _ ___ _ ___ _ ___ _ ___ _ ___
+                TS__[O] |___| _(_)_ |___| _(_)_ |___| _(_)_ |___| _(_)_ |___|
+                {======|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
+                ./o--000'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'
+            </template>
+
+            <div class="train-scene" aria-label="Animated ASCII steam train">
+                <span class="train-lbl" aria-hidden="true">// TRAIN.EXE</span>
+                <div class="train-mover" id="train-mover">
+                    <pre class="train-pre" id="train-pre"></pre>
+                </div>
+                <div class="train-ground" id="train-ground" aria-hidden="true"></div>
+            </div>
+
+            <div class="hero-meta-row">
+                <div class="hero-meta-cell">Role (<b>Student + Designer + Developer</b>)</div>
+                <div class="hero-meta-cell">Based (<b>Metro Manila</b>)</div>
+                <div class="hero-meta-cell">Status (<b>Busy As I Can Be!</b>)</div>
+            </div>
+
+            <p class="hero-bio">
+                <strong>Hello! </strong>I'm <strong>Zyrah, </strong>a <strong>Computer Science student </strong> at <strong>PUP Manila </strong> who likes turning ideas into clean, useful, and user-friendly designs.
+                <br /><br /> I work across <strong>UI/UX, graphic design, and game development </strong>using <strong>Figma, Canva, and a bit of code </strong> when needed.
+                <br /><br /><strong>Welcome to my humble abode! </strong>
+            </p>
+
+            <a href="#archive" class="hero-cta">[ View Archive ]</a>
+        </section>
+
+        <section id="about" aria-label="About me">
+            <div class="section-label">// ABOUT_ME.TXT</div>
+
+            <div class="archive-row">
+                <div class="row-key">Name</div>
+                <div class="row-val">Zyrah Mae M. Dotollo (Zyzy)</div>
+            </div>
+            <div class="archive-row">
+                <div class="row-key">Role</div>
+                <div class="row-val">Student + UI/UX and Graphic Designer + Developer</div>
+            </div>
+            <div class="archive-row">
+                <div class="row-key">Based</div>
+                <div class="row-val">Somewhere in Metro Manila! :P</div>
+            </div>
+            <div class="archive-row">
+                <div class="row-key">Status</div>
+                <div class="row-val">Open to freelance work and internships!</div>
+            </div>
+            <div class="archive-row">
+                <div class="row-key">Bio</div>
+                <div class="row-val">
+                    I work in two modes: either <strong>I'm really concentrated on a certain task</strong>, or <strong>I'm entirely relaxed.</strong> No in-betweens!
+                    <br />In my free time, I enjoy <strong>reading, watching almost anything on <i>Netflix</i>, </strong>and <strong>playing video games until it's late. I also listen to music 24/7! </strong>
+                    <br />Additionally, I am a big fan of <strong>baseball </strong> and <strong>Formula 1!</strong>
+                </div>
+            </div>
+            <div class="archive-row">
+                <div class="row-key">Skills</div>
+                <div class="row-val">
+                    <div class="skills-wrap">
+                        <span class="skill-pill">HTML</span>
+                        <span class="skill-pill">CSS</span>
+                        <span class="skill-pill">C</span>
+                        <span class="skill-pill">Java</span>
+                        <span class="skill-pill">MySQL</span>
+                        <span class="skill-pill">PostgreSQL</span>
+                        <span class="skill-pill">Visual Basic (.NET)</span>
+                        <span class="skill-pill">Canva</span>
+                        <span class="skill-pill">Adobe Express</span>
+                        <span class="skill-pill">Figma</span>
+                        <span class="skill-pill">Capcut</span>
+                        <span class="skill-pill">Microsoft Clipchamp</span>
+                        <span class="skill-pill">Google Workspace</span>
+                        <span class="skill-pill">Microsoft Office Suite</span>
+                        <span class="skill-pill">Notion</span>
+                    </div>
+                </div>
+            </div>
+            <div class="archive-row">
+                <div class="row-key">Education</div>
+                <div></div>
+                <div class="row-key"><i>Tertiary</i></div>
+                <div class="row-val"><b>Polytechnic University of the Philippines</b> <i>(August 2024 - Present)</i></div>
+                <div class="row-key"><i>Senior High School</i></div>
+                <div class="row-val"><b>Young Achievers' School of Caloocan, Inc.</b> <i>(September 2022 - May 2024)</i></div>
+                <div class="row-key"><i>Junior High School</i></div>
+                <div class="row-val"><b>Bignay National High School</b> <i>(June 2018 - June 2022)</i></div>
+                <div class="row-key"><i>Elementary</i></div>
+                <div class="row-val"><b>Roberta De Jesus Elementary School</b> <i>(June 2014 - April 2018)</i></div>
+                <div class="row-key"><i>Kindergarten</i></div>
+                <div class="row-val"><b>Our Lord's Angels School</b> <i>(June 2010 - March 2014)</i></div>
+            </div>
+        </section>
+
+        <section id="archive" aria-label="My archive">
+            <div class="section-label">// ARCHIVE.DIR</div>
+
+            <div class="archive-filters" role="group" aria-label="Archive filters">
+                <button class="archive-filter active" data-filter="all">[ ALL ]</button>
+                <button class="archive-filter" data-filter="project">[ PROJECTS ]</button>
+                <button class="archive-filter" data-filter="experience">[ EXPERIENCES ]</button>
+                <button class="archive-filter" data-filter="certification">[ CERTIFICATIONS ]</button>
+            </div>
+
+            <article class="project-entry archive-entry" data-category="project">
+                <div class="proj-num">I</div>
+                <div class="proj-body">
+                    <div class="proj-name-row">
+                        <span class="proj-name">Arbitrary Image Scoring</span>
+                        <span class="proj-type">(UI/UX Design)</span>
+                    </div>
+                    <div class="proj-meta">
+                        <span>Built(<b>May - June 2026</b>)</span>
+                        <span>Type(<b>Academic</b>)</span>
+                        <span>Status(<b>Completed</b>)</span>
+                    </div>
+                    <p class="proj-desc">Designed three concept web page interfaces for an image subject quality scoring system, including the color palette and visual standards.</p>
+                    <div class="proj-tools"><span class="proj-tool">Figma</span></div>
+                    <a href="https://www.figma.com/site/jmbIgWlUXdqsuFbyV7Rwbw/" class="proj-link" target="_blank">View Project &rarr;</a>
+                </div>
+            </article>
+
+            <article class="project-entry archive-entry" data-category="project">
+                <div class="proj-num">II</div>
+                <div class="proj-body">
+                    <div class="proj-name-row">
+                        <span class="proj-name">Scholarship Form Database Proposal</span>
+                        <span class="proj-type">(UI/UX + Database)</span>
+                    </div>
+                    <div class="proj-meta">
+                        <span>Built(<b>May - June 2026</b>)</span>
+                        <span>Type(<b>Academic</b>)</span>
+                        <span>Status(<b>Completed</b>)</span>
+                    </div>
+                    <p class="proj-desc">Designed two web page interfaces and seven visual assets for a scholarship application database concept.</p>
+                    <div class="proj-tools"><span class="proj-tool">Figma</span><span class="proj-tool">MySQL</span></div>
+                    <a href="https://github.com/c0re-neet/PHIL-SCHOLAR-FORM" class="proj-link" target="_blank">View Project &rarr;</a>
+                </div>
+            </article>
+
+            <article class="project-entry archive-entry" data-category="project">
+                <div class="proj-num">III</div>
+                <div class="proj-body">
+                    <div class="proj-name-row">
+                        <span class="proj-name">Pila Room Reserb</span>
+                        <span class="proj-type">(UI/UX Design)</span>
+                    </div>
+                    <div class="proj-meta">
+                        <span>Built(<b>November 2025 - January 2026</b>)</span>
+                        <span>Type(<b>Academic</b>)</span>
+                        <span>Status(<b>Completed</b>)</span>
+                    </div>
+                    <p class="proj-desc">Co-designed 27 webpage interfaces for a university room reservation system concept.</p>
+                    <div class="proj-tools"><span class="proj-tool">Figma</span><span class="proj-tool">Canva</span></div>
+                    <a href="https://github.com/c0re-neet/Pila-Room-Reserb" class="proj-link" target="_blank">View Project &rarr;</a>
+                </div>
+            </article>
+
+            <article class="project-entry archive-entry" data-category="project">
+                <div class="proj-num">IV</div>
+                <div class="proj-body">
+                    <div class="proj-name-row">
+                        <span class="proj-name">Breathing Machines</span>
+                        <span class="proj-type">(Video Game)</span>
+                    </div>
+                    <div class="proj-meta">
+                        <span>Built(<b>March - August 2025</b>)</span>
+                        <span>Type(<b>Game Jam</b>)</span>
+                        <span>Status(<b>Completed</b>)</span>
+                    </div>
+                    <p class="proj-desc">A vertical slice of a Metroidvania sidescrolling shoot em up and Organization-Award winning project.</p>
+                    <div class="proj-tools"><span class="proj-tool">C++</span><span class="proj-tool">Canva</span></div>
+                    <a href="https://github.com/blazereon/Project-Shoot-Em-Down" class="proj-link" target="_blank">View Project &rarr;</a>
+                </div>
+            </article>
+
+            <article class="project-entry archive-entry" data-category="project">
+                <div class="proj-num">V</div>
+                <div class="proj-body">
+                    <div class="proj-name-row">
+                        <span class="proj-name">DailyGOODS Grocery Management System</span>
+                        <span class="proj-type">(Desktop Application)</span>
+                    </div>
+                    <div class="proj-meta">
+                        <span>Built(<b>January - May 2024</b>)</span>
+                        <span>Type(<b>Academic</b>)</span>
+                        <span>Status(<b>Completed</b>)</span>
+                    </div>
+                    <p class="proj-desc">Researched and helped plan a grocery management system with user login, employee records, and inventory management.</p>
+                    <div class="proj-tools"><span class="proj-tool">Visual Basic (.NET)</span><span class="proj-tool">Canva</span></div>
+                    <a href="https://drive.google.com/drive/folders/1tqJkabXcfG9yjo0BNZ9Y31_3cVXD5_0O" class="proj-link" target="_blank">View Project &rarr;</a>
+                </div>
+            </article>
+
+            <article class="project-entry archive-entry" data-category="project">
+                <div class="proj-num">VI</div>
+                <div class="proj-body">
+                    <div class="proj-name-row">
+                        <span class="proj-name">Basic Calculator</span>
+                        <span class="proj-type">(Desktop Application)</span>
+                    </div>
+                    <div class="proj-meta">
+                        <span>Built(<b>November 2023</b>)</span>
+                        <span>Type(<b>Academic</b>)</span>
+                        <span>Status(<b>Completed</b>)</span>
+                    </div>
+                    <p class="proj-desc">Built a functional calculator with basic arithmetic operations, calculation history, and a customizable keypad.</p>
+                    <div class="proj-tools"><span class="proj-tool">Visual Basic (.NET)</span></div>
+                    <a href="https://www.linkedin.com/posts/zyrah-mae-m-dotollo" class="proj-link" target="_blank">View Project &rarr;</a>
+                </div>
+            </article>
+
+            <article class="project-entry archive-entry" data-category="project">
+                <div class="proj-num">VII</div>
+                <div class="proj-body">
+                    <div class="proj-name-row">
+                        <span class="proj-name">AlertCane</span>
+                        <span class="proj-type">(Hardware)</span>
+                    </div>
+                    <div class="proj-meta">
+                        <span>Built(<b>September 2023</b>)</span>
+                        <span>Type(<b>Academic</b>)</span>
+                        <span>Status(<b>Completed</b>)</span>
+                    </div>
+                    <p class="proj-desc">Co-designed a smart walking stick that uses an ultrasonic sensor and buzzer to detect nearby obstacles.</p>
+                    <div class="proj-tools"><span class="proj-tool">C++</span></div>
+                    <a href="https://www.linkedin.com/posts/zyrah-mae-m-dotollo" class="proj-link" target="_blank">View Project &rarr;</a>
+                </div>
+            </article>
+        </section>
+
+        <section id="contact" aria-label="Contact me">
+            <div class="section-label">// CONTACT.SH</div>
+            <div class="contact-grid">
+                <div>
+                    <p class="contact-note">Got a project in mind or just want to say hello? Reach out through any of these channels.</p>
+                    <div class="contact-links-list">
+                        <div class="contact-link-row">
+                            <span class="cl-label">Email</span>
+                            <span class="cl-val"><a href="mailto:zyrahmaedotollo@@email.com"><u>zyrahmaedotollo@@email.com</u></a></span>
+                        </div>
+                        <div class="contact-link-row">
+                            <span class="cl-label">GitHub</span>
+                            <span class="cl-val"><a href="https://github.com/toschiiiii"><u>@@toschiiiii</u></a></span>
+                        </div>
+                        <div class="contact-link-row">
+                            <span class="cl-label">LinkedIn</span>
+                            <span class="cl-val"><a href="https://www.linkedin.com/in/zyrah-mae-m-dotollo/"><u>Zyrah Mae M. Dotollo</u></a></span>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="form-row">
+                        <label class="form-lbl" for="f-name">Name</label>
+                        <input class="form-field" type="text" id="f-name" placeholder="Your name" />
+                    </div>
+                    <div class="form-row">
+                        <label class="form-lbl" for="f-email">Email</label>
+                        <input class="form-field" type="email" id="f-email" placeholder="youremail@@domain.com" />
+                    </div>
+                    <div class="form-row">
+                        <label class="form-lbl" for="f-msg">Message</label>
+                        <textarea class="form-area" id="f-msg" placeholder="Tell me about your idea..."></textarea>
+                    </div>
+                    <button class="form-send" onclick="handleSend()">[ Send Message ]</button>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <footer>
+        <pre class="footer-ascii-block" aria-hidden="true">
+:::::::::   ::::::::  ::::::::: ::::::::::: :::::::::: ::::::::  :::        ::::::::::: ::::::::
+:+:    :+: :+:    :+: :+:    :+:    :+:     :+:       :+:    :+: :+:            :+:    :+:    :+:
++:+    +:+ +:+    +:+ +:+    +:+    +:+     +:+       +:+    +:+ +:+            +:+    +:+    +:+
++#++:++#+  +#+    +:+ +#++:++#:     +#+     :#::+::#  +#+    +:+ +#+            +#+    +#+    +:+
++#+        +#+    +#+ +#+    +#+    +#+     +#+       +#+    +#+ +#+            +#+    +#+    +#+
+#+#        #+#    #+# #+#    #+#    #+#     #+#       #+#    #+# #+#            #+#    #+#    #+#
+###         ########  ###    ###    ###     ###        ########  ##########     ###     ########
+        </pre>
+        <div class="footer-text">
+            <div>toschi.dev [&copy;2026] All rights reserved</div>
+            <div>Don't be a stranger!</div>
+        </div>
+    </footer>
+
+    <script src="~/js/site.js"></script>
+
+</body>
+</html>
