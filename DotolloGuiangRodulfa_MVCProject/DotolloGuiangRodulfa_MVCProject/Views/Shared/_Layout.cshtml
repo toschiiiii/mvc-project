@@ -1,0 +1,97 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - DotolloGuiangRodulfa_MVCProject</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f5f5f5;
+            color: #222;
+        }
+
+        header {
+            background: #222;
+            color: white;
+            padding: 16px 40px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+            header a {
+                color: white;
+                text-decoration: none;
+                margin-left: 24px;
+                font-size: 14px;
+            }
+
+                header a:hover {
+                    text-decoration: underline;
+                }
+
+        .logo {
+            font-size: 16px;
+            font-weight: bold;
+        }
+
+        main {
+            padding: 60px 40px;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        <footer style="position:fixed; bottom:0; left:0; right:0; width:100%; text-align:center; padding:16px; font-size:12px; color:#888; background:#f5f5f5; border-top:1px solid #ddd;" >
+        &copy; 2026 DotolloGuiangRodulfa_MVCProject
+        </footer >
+
+        html, body {
+            height: 100%;
+            margin: 0;
+        }
+
+        body {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        main {
+            flex: 1;
+        }
+
+        footer {
+            text-align: center;
+            padding: 16px;
+            font-size: 12px;
+            color: #888;
+            background: #f5f5f5;
+            border-top: 1px solid #ddd;
+        }
+           
+    </style>
+</head>
+<body>
+    <header>
+        <div class="logo">DGR MVCProject</div>
+        <nav>
+            <a asp-controller="Home" asp-action="Index">Home</a>
+            <a asp-controller="Home" asp-action="Profile">Profile</a>
+            <a asp-controller="Home" asp-action="Portfolio">Portfolio</a>
+        </nav>
+    </header>
+
+    <main>
+        @RenderBody()
+    </main>
+
+    <footer>
+        &copy; 2026 DotolloGuiangRodulfa_MVCProject
+    </footer>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
