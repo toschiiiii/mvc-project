@@ -36,16 +36,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Zyrah/Programming/mvc-project/DotolloGuiangRodulfa_MVCProject/DotolloGuiangRodulfa_MVCProject/Views/Home/ZyrahPortfolio.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxaeXJhaFBvcnRmb2xpby5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Zyrah/Programming/mvc-project/DotolloGuiangRodulfa_MVCProject/DotolloGuiangRodulfa_MVCProject/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Zyrah/Programming/mvc-project/DotolloGuiangRodulfa_MVCProject/DotolloGuiangRodulfa_MVCProject/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zyrah/Programming/mvc-project/DotolloGuiangRodulfa_MVCProject/DotolloGuiangRodulfa_MVCProject/Views/Zyrah/Portfolio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWnlyYWhcUG9ydGZvbGlvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Zyrah/Programming/mvc-project/DotolloGuiangRodulfa_MVCProject/DotolloGuiangRodulfa_MVCProject/Views/_ViewImports.cshtml]

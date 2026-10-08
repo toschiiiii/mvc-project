@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotolloGuiangRodulfa_MVCProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f05d17019ddd667f5912f8f8cb34a695f5dd4265")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7490e252d301cb863e2f8b30b5f3ec1064d34c56")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotolloGuiangRodulfa_MVCProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotolloGuiangRodulfa_MVCProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

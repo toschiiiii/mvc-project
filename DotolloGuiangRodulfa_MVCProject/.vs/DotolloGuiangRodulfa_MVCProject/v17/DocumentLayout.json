@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\Zyrah\\Programming\\mvc-project\\DotolloGuiangRodulfa_MVCProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{75884E3E-F569-4664-8A3B-FC858EDF6361}|DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject.csproj|c:\\users\\zyrah\\programming\\mvc-project\\dotolloguiangrodulfa_mvcproject\\dotolloguiangrodulfa_mvcproject\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{75884E3E-F569-4664-8A3B-FC858EDF6361}|DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject.csproj|solutionrelative:dotolloguiangrodulfa_mvcproject\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75884E3E-F569-4664-8A3B-FC858EDF6361}|DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject.csproj|c:\\users\\zyrah\\programming\\mvc-project\\dotolloguiangrodulfa_mvcproject\\dotolloguiangrodulfa_mvcproject\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{75884E3E-F569-4664-8A3B-FC858EDF6361}|DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject.csproj|solutionrelative:dotolloguiangrodulfa_mvcproject\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75884E3E-F569-4664-8A3B-FC858EDF6361}|DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject.csproj|c:\\users\\zyrah\\programming\\mvc-project\\dotolloguiangrodulfa_mvcproject\\dotolloguiangrodulfa_mvcproject\\views\\zyrah\\portfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75884E3E-F569-4664-8A3B-FC858EDF6361}|DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject.csproj|solutionrelative:dotolloguiangrodulfa_mvcproject\\views\\zyrah\\portfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75884E3E-F569-4664-8A3B-FC858EDF6361}|DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject.csproj|c:\\users\\zyrah\\programming\\mvc-project\\dotolloguiangrodulfa_mvcproject\\dotolloguiangrodulfa_mvcproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75884E3E-F569-4664-8A3B-FC858EDF6361}|DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject.csproj|solutionrelative:dotolloguiangrodulfa_mvcproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75884E3E-F569-4664-8A3B-FC858EDF6361}|DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject.csproj|c:\\users\\zyrah\\programming\\mvc-project\\dotolloguiangrodulfa_mvcproject\\dotolloguiangrodulfa_mvcproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75884E3E-F569-4664-8A3B-FC858EDF6361}|DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject.csproj|solutionrelative:dotolloguiangrodulfa_mvcproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75884E3E-F569-4664-8A3B-FC858EDF6361}|DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject.csproj|c:\\users\\zyrah\\programming\\mvc-project\\dotolloguiangrodulfa_mvcproject\\dotolloguiangrodulfa_mvcproject\\controllers\\zyrahcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75884E3E-F569-4664-8A3B-FC858EDF6361}|DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject.csproj|solutionrelative:dotolloguiangrodulfa_mvcproject\\controllers\\zyrahcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{75884E3E-F569-4664-8A3B-FC858EDF6361}|DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject.csproj|c:\\users\\zyrah\\programming\\mvc-project\\dotolloguiangrodulfa_mvcproject\\dotolloguiangrodulfa_mvcproject\\views\\home\\portfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{75884E3E-F569-4664-8A3B-FC858EDF6361}|DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject.csproj|solutionrelative:dotolloguiangrodulfa_mvcproject\\views\\home\\portfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,28 +35,8 @@
       "RelativeMoniker": "D:0:0:{75884E3E-F569-4664-8A3B-FC858EDF6361}|DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject.csproj|solutionrelative:dotolloguiangrodulfa_mvcproject\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75884E3E-F569-4664-8A3B-FC858EDF6361}|DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject.csproj|c:\\users\\zyrah\\programming\\mvc-project\\dotolloguiangrodulfa_mvcproject\\dotolloguiangrodulfa_mvcproject\\views\\home\\zyrahportfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75884E3E-F569-4664-8A3B-FC858EDF6361}|DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject.csproj|solutionrelative:dotolloguiangrodulfa_mvcproject\\views\\home\\zyrahportfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75884E3E-F569-4664-8A3B-FC858EDF6361}|DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject.csproj|c:\\users\\zyrah\\programming\\mvc-project\\dotolloguiangrodulfa_mvcproject\\dotolloguiangrodulfa_mvcproject\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{75884E3E-F569-4664-8A3B-FC858EDF6361}|DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject.csproj|solutionrelative:dotolloguiangrodulfa_mvcproject\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75884E3E-F569-4664-8A3B-FC858EDF6361}|DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject.csproj|c:\\users\\zyrah\\programming\\mvc-project\\dotolloguiangrodulfa_mvcproject\\dotolloguiangrodulfa_mvcproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75884E3E-F569-4664-8A3B-FC858EDF6361}|DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject.csproj|solutionrelative:dotolloguiangrodulfa_mvcproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{75884E3E-F569-4664-8A3B-FC858EDF6361}|DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject.csproj|c:\\users\\zyrah\\programming\\mvc-project\\dotolloguiangrodulfa_mvcproject\\dotolloguiangrodulfa_mvcproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{75884E3E-F569-4664-8A3B-FC858EDF6361}|DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject.csproj|solutionrelative:dotolloguiangrodulfa_mvcproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75884E3E-F569-4664-8A3B-FC858EDF6361}|DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject.csproj|c:\\users\\zyrah\\programming\\mvc-project\\dotolloguiangrodulfa_mvcproject\\dotolloguiangrodulfa_mvcproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75884E3E-F569-4664-8A3B-FC858EDF6361}|DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject.csproj|solutionrelative:dotolloguiangrodulfa_mvcproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75884E3E-F569-4664-8A3B-FC858EDF6361}|DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject.csproj|c:\\users\\zyrah\\programming\\mvc-project\\dotolloguiangrodulfa_mvcproject\\dotolloguiangrodulfa_mvcproject\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{75884E3E-F569-4664-8A3B-FC858EDF6361}|DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject.csproj|solutionrelative:dotolloguiangrodulfa_mvcproject\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,17 +46,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "ZyrahController.cs",
+              "DocumentMoniker": "C:\\Users\\Zyrah\\Programming\\mvc-project\\DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject\\Controllers\\ZyrahController.cs",
+              "RelativeDocumentMoniker": "DotolloGuiangRodulfa_MVCProject\\Controllers\\ZyrahController.cs",
+              "ToolTip": "C:\\Users\\Zyrah\\Programming\\mvc-project\\DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject\\Controllers\\ZyrahController.cs",
+              "RelativeToolTip": "DotolloGuiangRodulfa_MVCProject\\Controllers\\ZyrahController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T10:21:23.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\Zyrah\\Programming\\mvc-project\\DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "DotolloGuiangRodulfa_MVCProject\\wwwroot\\js\\site.js",
               "ToolTip": "C:\\Users\\Zyrah\\Programming\\mvc-project\\DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject\\wwwroot\\js\\site.js",
               "RelativeToolTip": "DotolloGuiangRodulfa_MVCProject\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2026-10-04T11:28:52.827Z",
               "EditorCaption": ""
@@ -60,19 +77,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ZyrahPortfolio.cshtml",
-              "DocumentMoniker": "C:\\Users\\Zyrah\\Programming\\mvc-project\\DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject\\Views\\Home\\ZyrahPortfolio.cshtml",
-              "RelativeDocumentMoniker": "DotolloGuiangRodulfa_MVCProject\\Views\\Home\\ZyrahPortfolio.cshtml",
-              "ToolTip": "C:\\Users\\Zyrah\\Programming\\mvc-project\\DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject\\Views\\Home\\ZyrahPortfolio.cshtml",
-              "RelativeToolTip": "DotolloGuiangRodulfa_MVCProject\\Views\\Home\\ZyrahPortfolio.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Title": "Portfolio.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zyrah\\Programming\\mvc-project\\DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject\\Views\\Zyrah\\Portfolio.cshtml",
+              "RelativeDocumentMoniker": "DotolloGuiangRodulfa_MVCProject\\Views\\Zyrah\\Portfolio.cshtml",
+              "ToolTip": "C:\\Users\\Zyrah\\Programming\\mvc-project\\DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject\\Views\\Zyrah\\Portfolio.cshtml",
+              "RelativeToolTip": "DotolloGuiangRodulfa_MVCProject\\Views\\Zyrah\\Portfolio.cshtml",
+              "ViewState": "AgIAABsBAAAAAAAAAAAgwC8BAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-04T10:21:29.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Portfolio.cshtml",
               "DocumentMoniker": "C:\\Users\\Zyrah\\Programming\\mvc-project\\DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject\\Views\\Home\\Portfolio.cshtml",
               "RelativeDocumentMoniker": "DotolloGuiangRodulfa_MVCProject\\Views\\Home\\Portfolio.cshtml",
@@ -85,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Profile.cshtml",
               "DocumentMoniker": "C:\\Users\\Zyrah\\Programming\\mvc-project\\DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject\\Views\\Home\\Profile.cshtml",
               "RelativeDocumentMoniker": "DotolloGuiangRodulfa_MVCProject\\Views\\Home\\Profile.cshtml",
@@ -93,25 +110,24 @@
               "RelativeToolTip": "DotolloGuiangRodulfa_MVCProject\\Views\\Home\\Profile.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-04T10:13:10.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T10:13:10.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Zyrah\\Programming\\mvc-project\\DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "DotolloGuiangRodulfa_MVCProject\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Zyrah\\Programming\\mvc-project\\DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "DotolloGuiangRodulfa_MVCProject\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAgwFQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-04T09:50:35.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Zyrah\\Programming\\mvc-project\\DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "DotolloGuiangRodulfa_MVCProject\\Views\\Home\\Index.cshtml",
@@ -119,8 +135,7 @@
               "RelativeToolTip": "DotolloGuiangRodulfa_MVCProject\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-04T09:10:30.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T09:10:30.717Z"
             },
             {
               "$type": "Document",
@@ -130,20 +145,20 @@
               "RelativeDocumentMoniker": "DotolloGuiangRodulfa_MVCProject\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Zyrah\\Programming\\mvc-project\\DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject\\Controllers\\HomeController.cs",
               "RelativeToolTip": "DotolloGuiangRodulfa_MVCProject\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwCEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-04T09:35:50.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Zyrah\\Programming\\mvc-project\\DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "DotolloGuiangRodulfa_MVCProject\\wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\Zyrah\\Programming\\mvc-project\\DotolloGuiangRodulfa_MVCProject\\DotolloGuiangRodulfa_MVCProject\\wwwroot\\css\\site.css",
               "RelativeToolTip": "DotolloGuiangRodulfa_MVCProject\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8DAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2026-10-04T09:12:53.231Z",
               "EditorCaption": ""

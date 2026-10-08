@@ -1,6 +1,4 @@
-wwwroot\css\site.css
 wwwroot\favicon.ico
-wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
@@ -61,9 +59,9 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
-C:\Users\Zyrah\Programming\mvc-project\DotolloGuiangRodulfa_MVCProject\DotolloGuiangRodulfa_MVCProject\wwwroot\css\site.css
+wwwroot\css\site.css
+wwwroot\js\site.js
 C:\Users\Zyrah\Programming\mvc-project\DotolloGuiangRodulfa_MVCProject\DotolloGuiangRodulfa_MVCProject\wwwroot\favicon.ico
-C:\Users\Zyrah\Programming\mvc-project\DotolloGuiangRodulfa_MVCProject\DotolloGuiangRodulfa_MVCProject\wwwroot\js\site.js
 C:\Users\Zyrah\Programming\mvc-project\DotolloGuiangRodulfa_MVCProject\DotolloGuiangRodulfa_MVCProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\Users\Zyrah\Programming\mvc-project\DotolloGuiangRodulfa_MVCProject\DotolloGuiangRodulfa_MVCProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 C:\Users\Zyrah\Programming\mvc-project\DotolloGuiangRodulfa_MVCProject\DotolloGuiangRodulfa_MVCProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
@@ -123,3 +121,5 @@ C:\Users\Zyrah\Programming\mvc-project\DotolloGuiangRodulfa_MVCProject\DotolloGu
 C:\Users\Zyrah\Programming\mvc-project\DotolloGuiangRodulfa_MVCProject\DotolloGuiangRodulfa_MVCProject\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\Zyrah\Programming\mvc-project\DotolloGuiangRodulfa_MVCProject\DotolloGuiangRodulfa_MVCProject\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\Zyrah\Programming\mvc-project\DotolloGuiangRodulfa_MVCProject\DotolloGuiangRodulfa_MVCProject\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\Zyrah\Programming\mvc-project\DotolloGuiangRodulfa_MVCProject\DotolloGuiangRodulfa_MVCProject\wwwroot\css\site.css
+C:\Users\Zyrah\Programming\mvc-project\DotolloGuiangRodulfa_MVCProject\DotolloGuiangRodulfa_MVCProject\wwwroot\js\site.js
