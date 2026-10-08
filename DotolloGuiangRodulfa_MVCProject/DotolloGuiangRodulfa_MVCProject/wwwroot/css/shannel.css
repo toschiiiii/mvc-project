@@ -1,0 +1,85 @@
+.nameHeader {
+    text-align: center;
+    color: rgb(150, 53, 110);
+    font-family: "Trebuchet MS", sans-serif;
+}
+
+#subHeader {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    font-family: Georgia, serif;
+    background-color: rgb(255, 213, 236);
+}
+
+th, td {
+    padding: 20px;
+}
+
+.tdLeftBorder {
+    padding-left: 50px;
+    background: linear-gradient(
+        to bottom,
+        transparent 20%,
+        black 10%,
+        black 90%,
+        transparent 90%
+    ) left center / 2px 100% no-repeat;
+}
+
+#mainFirstColumn {
+    vertical-align: top;
+    text-align: center;
+}
+
+#mainSecondColumn {
+}
+
+.parent-table {
+    table-layout:auto;
+}
+
+.parent-table td:first-child {
+    width: 30%;
+}
+
+.parent-table td:nth-child(2) {
+    width: 70%;
+}
+
+td {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+
+.miniHeader {
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(150, 53, 110);
+    padding-bottom: 6px;
+    margin-bottom: 15px;
+}
+
+.subHeaderContent {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.menuContainer {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 15px;
+}
+
+.topMenu {
+    display: block;
+    color: #96356E;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
