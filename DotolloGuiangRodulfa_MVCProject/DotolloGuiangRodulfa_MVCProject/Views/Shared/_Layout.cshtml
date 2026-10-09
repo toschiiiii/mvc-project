@@ -11,6 +11,9 @@
             padding: 0;
             background: #f5f5f5;
             color: #222;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
         }
 
         header {
@@ -42,24 +45,6 @@
             padding: 60px 40px;
             max-width: 900px;
             margin: 0 auto;
-        }
-
-        <footer style="position:fixed; bottom:0; left:0; right:0; width:100%; text-align:center; padding:16px; font-size:12px; color:#888; background:#f5f5f5; border-top:1px solid #ddd;" >
-        &copy; 2026 DotolloGuiangRodulfa_MVCProject
-        </footer >
-
-        html, body {
-            height: 100%;
-            margin: 0;
-        }
-
-        body {
-            display: flex;
-            flex-direction: column;
-            min-height: 100vh;
-        }
-
-        main {
             flex: 1;
         }
 
@@ -71,7 +56,6 @@
             background: #f5f5f5;
             border-top: 1px solid #ddd;
         }
-           
     </style>
 </head>
 <body>
@@ -79,8 +63,9 @@
         <div class="logo">DGR MVCProject</div>
         <nav>
             <a asp-controller="Home" asp-action="Index">Home</a>
-            <a asp-controller="Home" asp-action="Profile">Profile</a>
-            <a asp-controller="Home" asp-action="Portfolio">Portfolio</a>
+            <a asp-controller="Zyrah" asp-action="Portfolio">Zyrah</a>
+            <a asp-controller="Home" asp-action="Portfolio">Steph</a>
+            <a asp-controller="Shannel" asp-action="Profile">Shannel</a>
         </nav>
     </header>
 
